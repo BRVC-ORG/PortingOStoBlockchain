@@ -32,17 +32,17 @@ _
 _
 - Layers of Blockchain-like environments ran as, each layer, as a different/past distribution of a certain OS, or a
 combination of 4 or 5 or 6 or 7…
-Layer 1: XP
-Layer 2: 7
-Layer 3: 8.1
-Layer 4: 10
-Layer 5: 11…
-—
-Layer 1: 2003
-Layer 2: 2008 (R1/2)
-Layer 3: 2012
-Layer 4: 2016
-Layer5: 2019…
+- Layer 1: XP
+- Layer 2: 7
+- Layer 3: 8.1
+- Layer 4: 10
+- Layer 5: 11…
+—-
+- Layer 1: 2003
+- Layer 2: 2008 (R1/2)
+- Layer 3: 2012
+- Layer 4: 2016
+- Layer5: 2019…
 -
 .windowsserver2003, .winserv03
 -
