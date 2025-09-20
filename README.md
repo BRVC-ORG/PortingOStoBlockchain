@@ -3,10 +3,10 @@ Porting Classical x86, x64 Operating Systems to the Blockchain
 
  The ability to completely ‘port’ an operating system to the Blockchain/Hyperledger
 i.e., Win9x → Blockchain
-15
-WinXP, 7, 8.1, 10/11 → Blockchain
-WinServ 2003+ → Blockchain
-Linux, Ubuntu, Unix, macOS (?)
+
+- WinXP, 7, 8.1, 10/11 → Blockchain
+- WinServ 2003+ → Blockchain
+- Linux, Ubuntu, Unix, macOS (?)
 - What about the ability to incorporate past distros, releases as domain names?
 i.e., .winxp, .windows7, .windows2000
 and then run them as cmdlets?
